@@ -1,6 +1,6 @@
 # MySQL xid - Globally Unique ID Generator
 
-`xid` is a cool library for generating 12 byte safe-from-anywhere IDs. This is a repo that wraps `xid` for use in MySQL as a MySQL UDF. The following is straight from the `xid` readme.
+`xid` is a cool library for generating 12 byte safe-from-anywhere IDs. This is a repo that wraps `xid` for use in MySQL as a MySQL UDF. The following is straight from the `xid` readme. Check them out here https://github.com/rs/xid
 
 ---
 
