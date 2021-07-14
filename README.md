@@ -48,7 +48,7 @@ all lowercase sequence of `a` to `v` letters and `0` to `9` numbers (`[0-9a-v]{2
 Returns a new xid in the 12 byte binary version. Sadly this couldn't be called simply "xid", because I guess MySQL already has a native function with that name that is unrelated to this.
 
 ```sql
-`xid` ( ) : binary(12)
+`xid_bin` ( ) : binary(12)
 ```
 ---
 ### `xid_string`
